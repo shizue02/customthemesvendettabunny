@@ -27,6 +27,30 @@
             "ic_radio_circle_checked_green__overlay": [
                 "#FFFFFFAA",
                 "#FFFFFFAA"
+            ],
+            "StatusStreaming": [
+                "#209db6",
+                "#209db6"
+            ],
+            "StatusMobileOnline": [
+                "#209db6",
+                "#209db6"
+            ],
+            "StatusIdle": [
+                "#D6C25C",
+                "#D6C25C"
+            ],
+            "StatusDND": [
+                "#D65C85",
+                "#D65C85"
+            ],
+            "StatusOffline": [
+                "#9facc6",
+                "#9facc6"
+            ],
+            "StatusOnline": [
+                "#209db6",
+                "#209db6"
             ]
         },
         "customOverlays": true
