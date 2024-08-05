@@ -14,10 +14,30 @@
             "#16181d",
             "#16181d"
         ],
+         "BACKGROUND_MOBILE_SECONDARY": [
+            "#16181d",
+            "#16181d",
+            "#16181d"
+        ],
         "BACKGROUND_ACCENT": [
             "#209db6",
             "#209db6",
             "#209db6"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#209db6",
+            "#209db6",
+            "#209db6"
+        ],
+        "BACKGROUND_MENTIONED": [
+            "#182A32",
+            "#182A32",
+            "#182A32"
+        ],
+        "MENTION_BACKGROUND": [
+            "#182A32",
+            "#182A32",
+            "#182A32"
         ],
         "BACKGROUND_FLOATING": [
             "#16181d",
@@ -95,9 +115,9 @@
             "#8a94a8"
         ],
         "TEXT_PRIMARY": [
-            "#b6c3de",
-            "#b6c3de",
-            "#b6c3de"
+            "#8a94a8",
+            "#8a94a8",
+            "#8a94a8"
         ],
         "TEXT_LINK": [
             "#52c9e0",
@@ -131,9 +151,10 @@
         ]
     },
     "rawColors": {
-        "YELLOW_300": "#D6C25C",
+        "YELLOW_300": "#209db6",
         "PRIMARY_400": "#209db6",
         "PRIMARY_500": "#209db6",
+        "BRAND_260": "#209db6",
         "BRAND_360": "#209db6",
         "BRAND_500": "#209db6",
         "PRIMARY_600": "#16181d",
