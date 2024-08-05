@@ -8,21 +8,14 @@
         }
     ],
     "spec": 2,
+    "plus": {
+        "version": 0
+    },
     "semanticColors": {
         "BACKGROUND_PRIMARY": [
             "#16181d",
             "#16181d",
             "#16181d"
-        ],
-         "BACKGROUND_MOBILE_SECONDARY": [
-            "#16181d",
-            "#16181d",
-            "#16181d"
-        ],
-        "BACKGROUND_ACCENT": [
-            "#209db6",
-            "#209db6",
-            "#209db6"
         ],
         "BACKGROUND_ACCENT": [
             "#209db6",
