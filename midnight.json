@@ -9,7 +9,27 @@
     ],
     "spec": 2,
     "plus": {
-        "version": 0
+        "version": 0,
+        "mentionLineColor": "#209db6",
+        "icons": {
+            "ic_radio_square_checked_24px": [
+                "#209db6",
+                "#209db6"
+            ],
+            "ic_radio_square_checked_24px__overlay": [
+                "#FFFFFFAA",
+                "#FFFFFFAA"
+            ],
+            "ic_radio_circle_checked_green": [
+                "#209db6",
+                "#209db6"
+            ],
+            "ic_radio_circle_checked_green__overlay": [
+                "#FFFFFFAA",
+                "#FFFFFFAA"
+            ]
+        },
+        "customOverlays": true
     },
     "semanticColors": {
         "BACKGROUND_PRIMARY": [
